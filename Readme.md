@@ -19,4 +19,6 @@
 - **Final SIH Presentation:** [Final SIH Presentation](/files/SIH_PPT_MECHACODE.pptx)
 - **Video Demonstration:** [Watch Video](https://youtu.be/3BiRrK8_NtQ?si=Yk8VWMDLG7FBz7ZM)
 - **Live Deployment:** [View Deployment](https://mechacode-invoicer.netlify.app/)
-- **Source Code:** [GitHub Repository](https://github.com/Ayaan-Ali-Khan/Invoicer_mechacode)
+- **Source Code:** [GitHub Repository](https://github.com/Ayaan-Ali-Khan/Invoicer_mechacode)<br>
+
+![alt](/code/invoicerScreenshot.png)
