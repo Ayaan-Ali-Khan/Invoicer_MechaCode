@@ -6,7 +6,7 @@
 
 **Team Members:**
 
-- **Aarush Manhla** - 2023UCS1565 - [@USERNAME](https://github.com/SK-ULL)
+- **Aarush Mangla** - 2023UCS1565 - [@USERNAME](https://github.com/SK-ULL)
 - **Ayaan Ali** - 2023UEC2588 - [@USERNAME](https://github.com/Ayaan-Ali-Khan)
 - **Yashika Vishwakarma** - 2023UCS1530 - [@USERNAME](https://github.com/yashikavishwakarma)
 - **Khushi Panghal** - 2023UME4014 - [@USERNAME](https://github.com/KhushiPanghal)
