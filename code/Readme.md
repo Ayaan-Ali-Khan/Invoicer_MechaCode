@@ -2,7 +2,7 @@
 
 This project leverages the following technologies:
 
-- **[REACT]([WEBSITE](https://react.dev/))**
+- [REACT]([WEBSITE](https://react.dev/))
 
 ## Key Features
 
