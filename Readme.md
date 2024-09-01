@@ -1,27 +1,22 @@
-# PS Chosen for Internal Hackathon (File Name from the drive folder)
+# AI for Developer Productivity
 
-This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
+**Team Name:** MechaCode
 
-## Team Details
-
-**Team Name:** TEAM_NAME_HERE
-
-**Team Leader:** [@USERNAME](https://github.com/USERNAME)
+**Team Leader:** [@USERNAME](https://github.com/SK-ULL)
 
 **Team Members:**
 
-- **MEMBER_1** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_2** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_3** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_4** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_5** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_6** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
+- **Aarush Manhla** - 2023UCS1565 - [@USERNAME](https://github.com/SK-ULL)
+- **Ayaan Ali** - 2023UEC2588 - [@USERNAME](https://github.com/Ayaan-Ali-Khan)
+- **Yashika Vishwakarma** - 2023UCS1530 - [@USERNAME](https://github.com/yashikavishwakarma)
+- **Khushi Panghal** - 2023UME4014 - [@USERNAME](https://github.com/USERNAME)
+- **Vaibhav Sharma** - 2023UCS1552 - [@USERNAME](https://github.com/svaibhav0703)
+- **Kundan Bansal** - 2023UME4044 - [@USERNAME](https://github.com/USERNAME)
 
 ## Project Links
 
-- **Internal Presentation:** [Internal Presentation](URL TO PPT UPLOADED TO GITHUB)
-- **Final SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
-- **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
-- **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
-- **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)
-- **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
+- **Internal Presentation:** [Internal Presentation](/files/Internal_PPT_MechaCode.pdf)
+- **Final SIH Presentation:** [Final SIH Presentation](/files/SIH_PPT_MECHACODE.pptx)
+- **Video Demonstration:** [Watch Video](https://youtu.be/3BiRrK8_NtQ?si=Yk8VWMDLG7FBz7ZM)
+- **Live Deployment:** [View Deployment](https://mechacode-invoicer.netlify.app/)
+- **Source Code:** [GitHub Repository](https://github.com/Ayaan-Ali-Khan/Invoicer_mechacode)
