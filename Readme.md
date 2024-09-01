@@ -1,4 +1,4 @@
-# Integrating In-App Advertising and In-App Purchase Plugins forGovtInvoice
+# Integrating In-App Advertising and In-App Purchase Plugins for GovtInvoice
 
 **Team Name:** MechaCode
 
